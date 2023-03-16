@@ -1,0 +1,14 @@
+{
+    "entryPoints": [
+        "./src/ejercicio-01/basicStreamableCollection.ts",
+        "./src/ejercicio-01/documental.ts",
+        "./src/ejercicio-01/film.ts",
+        "./src/ejercicio-01/serie.ts",
+        "./src/ejercicio-01/documentalCollection.ts",
+        "./src/ejercicio-01/filmCollection.ts",
+        "./src/ejercicio-01/serieCollection.ts",
+        "./src/ejercicio-02/array.ts",
+        "./src/ejercicio-02/arrayInterface.ts"
+    ],
+    "out": "./docs"
+}
